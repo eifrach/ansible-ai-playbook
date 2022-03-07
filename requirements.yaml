@@ -1,0 +1,9 @@
+# from GitHub, overriding the name and specifying a specific tag
+- src: https://github.com/eifrach/ansible-role-setup-pxe
+  version: main
+  name: setup-pxe
+
+- src: https://github.com/eifrach/ansible-role-download-iso-pxe
+  version: main
+  name: iso-to-pxe
+  
